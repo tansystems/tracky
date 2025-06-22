@@ -15,9 +15,13 @@ Migrations: golang-migrate
 📁 Project Structure
 
 tracky/
+
 ├── cmd/server/         # Entry point for the Go server
+
 ├── internal/           # Business logic, handlers, integrations
+
 ├── migrations/         # SQL migration files
+
 └── ui/webapp/          # Frontend for Telegram Mini App
 
 🚀 Getting Started
